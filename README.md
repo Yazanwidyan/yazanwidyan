@@ -31,11 +31,9 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
+<a href="https://yazanwidyan.github.io/portfolio/" target="blank">Visit my website</a>
 - 📫 Reach me at **yazanwidyan07@gmail.com** or at :
-<a href="https://yazanwidyan.github.io/portfolio/" target="blank">My Portfolio</a>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/yazan-widyan-863305157/" target="blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" height="40"/></a>
-<a href="https://gitlab.com/Yazanwidyan" target="blank"><img src="https://img.icons8.com/color/96/000000/gitlab.png" height="40"/></a>
 <a href="https://www.facebook.com/yazan.widyan/" target="blank"><img src="https://img.icons8.com/fluent/96/000000/facebook-new.png" height="40"/></a>
 </p>
