@@ -32,6 +32,8 @@
 
 
 - 📫 Reach me at **yazanwidyan07@gmail.com** or at :
+<a href="https://yazanwidyan.github.io/portfolio/" target="blank">My Portfolio</a>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/yazan-widyan-863305157/" target="blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" height="40"/></a>
 <a href="https://gitlab.com/Yazanwidyan" target="blank"><img src="https://img.icons8.com/color/96/000000/gitlab.png" height="40"/></a>
