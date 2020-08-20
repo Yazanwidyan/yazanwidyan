@@ -28,6 +28,8 @@
 <img src="https://img.icons8.com/fluent/96/000000/adobe-photoshop.png" height="50"/>
 <img src="https://img.icons8.com/color/96/000000/adobe-xd.png" height="50"/>
 </p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 
 - 📫 Reach me at **yazanwidyan07@gmail.com** or at :
 <p align="center">
