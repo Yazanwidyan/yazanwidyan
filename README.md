@@ -2,6 +2,8 @@
  My name is **Yazan Widyan**, I'm a front-end developer, passionate about designing and developing SaaS products.
 
 - 🔭 I’m currently working as a Freelance Web Developer
+<a href="https://yazanwidyan.github.io/portfolio/" target="blank">Visit my website</a>
+
 
 - 👨‍💻 Coding With:
 <p align="center">
@@ -31,7 +33,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
-<a href="https://yazanwidyan.github.io/portfolio/" target="blank">Visit my website</a>
 - 📫 Reach me at **yazanwidyan07@gmail.com** or at :
 <p align="center">
 <a href="https://www.linkedin.com/in/yazan-widyan-863305157/" target="blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" height="40"/></a>
