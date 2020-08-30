@@ -5,7 +5,7 @@
 <a href="https://yazanwidyan.github.io/portfolio/" target="blank">Visit my website</a>
 
 
-- 👨‍💻 Coding With
+- 👨‍💻 Coding With:
 <p align="center">
 <img src="https://img.icons8.com/clouds/100/000000/react.png" height="55"/>
 <img src="https://img.icons8.com/bubbles/100/000000/react.png" height="50"/>
